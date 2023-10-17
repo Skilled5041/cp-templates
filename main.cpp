@@ -2,13 +2,6 @@
 
 using namespace std;
 
-typedef long long i64;
-typedef unsigned long long u64;
-typedef double f64;
-typedef int i32;
-typedef float f32;
-typedef unsigned int u32;
-
 #define nl "\n"
 #define MOD 1000000007
 #define arr(T, n, i) T n[i] = {}
